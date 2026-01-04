@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @humanplant
-- 👀 I’m intrested in Technical Writing
+- 👀 I’m in IT
 - 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on documentation
-- 📫 How to reach me ...
+- 📫 How to reach me ...DON'T
 
 <!---
 humanplant/humanplant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
